@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Script",
     "url": "https://scriptconf.org/",
     "where": "Linz, Austria",
@@ -267,6 +266,15 @@
     "when": "May 30, 2018 - June 1, 2018",
     "month": "May",
     "submissionDeadline": "Dec 29, 2017",
+    "country": "USA"
+  },
+  {
+    "title": "SyntaxCon",
+    "url": "https://2018.syntaxcon.com/",
+    "where": "Charleston, SC",
+    "when": "June 6-8, 2018",
+    "month": "June",
+    "submissionDeadline": "Dec 31, 2017",
     "country": "USA"
   },
   {

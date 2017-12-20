@@ -154,6 +154,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** May 30, 2018 - June 1, 2018
     
+## [SyntaxCon](https://2018.syntaxcon.com/)
+**Where:** Charleston, SC
+
+**When:** June 6-8, 2018
+    
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
